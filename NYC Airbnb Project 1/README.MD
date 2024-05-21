@@ -11,7 +11,7 @@
 * Created a new pivot table to calculate the average price and occupancy rate for the neighborhood to generate annual revenue
 
 ## Images
-![Top 10 Neighborhoods](Top 10 Most Popular Neighborhoods.png)
+![Top 10 Neighborhoods](Neighborhoods.png)
 ![Image](src/Img/darkmode.png)
 ![Image](src/Img/darkmode.png)
 ![Image](src/Img/darkmode.png)
