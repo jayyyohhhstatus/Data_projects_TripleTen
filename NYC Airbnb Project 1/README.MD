@@ -27,6 +27,8 @@ Above is the Occupancy Percentage
 
 Above is Annual Revenue
 
+[Click here to see Project --> ](https://docs.google.com/spreadsheets/d/1iyqWcd87t4nVPRpRc9QQNHqYzGhy4Ecmz7z_fDSBjYE/edit?usp=sharing)
+
 
 
 
