@@ -12,13 +12,16 @@
 
 ## Images
 ![Top 10 Neighborhoods](Neighborhoods.png)
+
 Above is the Top Ten Neighborhoods
 
 ![Image](bedrooms.png)
+
 Above is the Popular Number of Bedrooms
 
 ![Image](occupancy.png)
- Above is the Occupancy Percentage 
+ 
+Above is the Occupancy Percentage 
 
 ![Image](src/Img/darkmode.png)
 
