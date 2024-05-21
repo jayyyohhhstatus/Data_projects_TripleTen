@@ -23,7 +23,9 @@ Above is the Popular Number of Bedrooms
  
 Above is the Occupancy Percentage 
 
-![Image](src/Img/darkmode.png)
+![Image](annualrevenue.png)
+
+Above is Annual Revenue
 
 
 
