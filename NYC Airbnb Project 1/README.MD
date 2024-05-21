@@ -17,7 +17,9 @@ Above is the Top Ten Neighborhoods
 ![Image](bedrooms.png)
 Above is the Popular Number of Bedrooms
 
-![Image](src/Img/darkmode.png)
+![Image](occupancy.png)
+Above is the Occupancy Percentage per unit 
+
 ![Image](src/Img/darkmode.png)
 
 
