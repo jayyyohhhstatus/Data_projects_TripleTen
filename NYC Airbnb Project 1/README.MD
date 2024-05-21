@@ -10,6 +10,9 @@
 * Created a new pivot table calculating the average of the occupancy to find the occupancy percentage. 
 * Created a new pivot table to calculate the average price and occupancy rate for the neighborhood to generate annual revenue
 
+## Images
+
+
 
 
 
