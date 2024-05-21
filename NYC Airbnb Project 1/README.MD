@@ -13,8 +13,10 @@
 ## Images
 ![Top 10 Neighborhoods](Neighborhoods.png)
 Above is the Top Ten Neighborhoods
+
 ![Image](bedrooms.png)
 Above is the Popular Number of Bedrooms
+
 ![Image](src/Img/darkmode.png)
 ![Image](src/Img/darkmode.png)
 
