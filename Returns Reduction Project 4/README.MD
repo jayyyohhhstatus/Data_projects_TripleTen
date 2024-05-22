@@ -27,7 +27,19 @@ Above is Showing California as a High Return Rate State
 
 ![Image](august.png)
 
-Above is Showing how August is the Highest Month for Returns
+Above is a Line Chart Showing how August is the Highest Month for Returns
+
+![Image](items.png)
+
+Above is the most returned itmes for the month of august in california 
+
+![Image](customer.png)
+
+Above is the Customers that made the most returns in the month of august in California 
+
+
+
+
 
 
 
