@@ -10,7 +10,8 @@
 * Created a bar chart showing the return rate by product category
 *Created another visual of the return rate by customer. To find customers who are more prone to making returns, added a filter to remove customers with only 1 order.
 *created a map showing the return rate by State
-**All the 4 visuals from above can be found on the dashboard below with user friendly filters avaliable if you click on the tableau project above**
+
+**All of the four visuals from above can be found on the dashboard below with user friendly filters avaliable if you click on the tableau project above**
 * With the Visuals above i focused on California because it had the second highest return rate but was the largest in population and most profitable even with such a high return rate. So i made a line chart of the returns by month for the state of California
 
   
