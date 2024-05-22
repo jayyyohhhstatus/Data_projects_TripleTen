@@ -28,7 +28,7 @@ Above is the Return of Ad spending for every state for those three months
 
 ![Image](averageprofittoaveragereturnrate.png)
 
-Above is the Avrgae profit to Average Return Rate for each State 
+Above is the Average profit to Average Return Rate for each State 
 
 
 
