@@ -24,6 +24,8 @@ Above is the Conversion Tunnel showing conversion rate and total conversion rate
 
 ![Image](cohort.png)
 
+Above is the cohort age by first purchase month 
+
 
 ![Image](src/Img/darkmode.png)
 
