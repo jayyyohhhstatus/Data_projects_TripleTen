@@ -4,7 +4,7 @@
 https://public.tableau.com/views/project4_17132923486990/Averageprofitaveragereturnratestate?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Overview
-* A Superstore gave me a taask as a consultant to review the operations and increase its profitability to avoid bankruptcy.
+* A Superstore gave me a task as a consultant to review the operations and increase its profitability to avoid bankruptcy.
 
 ## Steps Taken
 * Created a bar graph to visualize the profit and losses by region for the sub categories 
