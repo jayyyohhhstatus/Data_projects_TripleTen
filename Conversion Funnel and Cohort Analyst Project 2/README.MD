@@ -14,6 +14,11 @@ Lastly aggregated the purchase data into cohorts and then calculated retention r
 
 ## Images
 
+![Image](Executivesummary.png)
+![Image](src/Img/darkmode.png)
+![Image](src/Img/darkmode.png)
+![Image](src/Img/darkmode.png)
+
 
 
 
