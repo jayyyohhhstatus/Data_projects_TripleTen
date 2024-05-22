@@ -17,5 +17,23 @@
 
 ## Images
 
-![Image](profitperregion.png)
+![Image](dashboard.png)
+
+Above is the dashboard showing the first four visuals from my **steps taken** section 
+
+![Image](State.png)
+
+Above is Showing California as a High Return Rate State 
+
+![Image](august.png)
+
+Above is Showing how August is the Highest Month for Returns
+
+
+
+
+
+
+
+
   
