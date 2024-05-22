@@ -15,7 +15,11 @@ Lastly aggregated the purchase data into cohorts and then calculated retention r
 ## Images
 
 ![Image](Executivesummary.png)
-![Image](src/Img/darkmode.png)
+
+
+![Image](conversionfunnel.png)
+
+Above is the Conversion Tunnel showing conversion rate and total conversion rate 
 ![Image](src/Img/darkmode.png)
 ![Image](src/Img/darkmode.png)
 
