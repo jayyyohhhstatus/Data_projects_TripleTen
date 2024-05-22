@@ -24,10 +24,12 @@ Above is the Conversion Tunnel showing conversion rate and total conversion rate
 
 ![Image](cohort.png)
 
-Above is the cohort age by first purchase month 
+Above is the Cohort age by first purchase month 
 
 
-![Image](src/Img/darkmode.png)
+![Image](retentionrate.png)
+
+Above is the Retention Rate for each Cohort 
 
 
 
