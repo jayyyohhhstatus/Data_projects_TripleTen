@@ -15,11 +15,11 @@
 ## Images
 ![Top 10 Neighborhoods](Neighborhoods.png)
 
-Above is the Top Ten Neighborhoods
+Above is the Top Ten Neighborhoods Lower Eastside had the most reviews
 
 ![Image](bedrooms.png)
 
-Above is the Popular Number of Bedrooms
+Above is the Popular Number of Bedrooms with Lower Eat side having the most reviews combined with 1 bedroom rentals
 
 ![Image](occupancy.png)
  
@@ -27,7 +27,7 @@ Above is the Occupancy Percentage
 
 ![Image](annualrevenue.png)
 
-Above is Annual Revenue
+Above is Annual Revenue which validates one bedroom rentals in Lower Eastside being the most profitable for annual revenue
 
 
 
