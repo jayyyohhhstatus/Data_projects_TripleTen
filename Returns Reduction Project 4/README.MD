@@ -21,7 +21,7 @@
 
 Above is the dashboard showing the first four visuals from my **steps taken** section 
 
-![Image](State.png)
+![Image](state.png)
 
 Above is Showing California as a High Return Rate State 
 
