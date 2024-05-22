@@ -14,10 +14,16 @@ https://public.tableau.com/views/project4_17132923486990/Averageprofitaverageret
 
 ## Images
 
-![Image](Executivesummary.png)
-![Image](Executivesummary.png)
-![Image](Executivesummary.png)
-![Image](Executivesummary.png)
+![Image](profitperregion.png)
+
+Above is a Bar Graph of Profit per region 
+
+![Image](advertising.png)
+
+Above is a visual of Average Profit per state and the order month using that information i focused on March (3) , October(10) and Novemeber (11)
+
+![Image](roas.png) ![Image](roas2.png)
+
 ![Image](Executivesummary.png)
 
 
