@@ -24,7 +24,11 @@ Above is a visual of Average Profit per state and the order month using that inf
 
 ![Image](roas.png) ![Image](roas2.png)
 
-![Image](Executivesummary.png)
+Above is the Return of Ad spending for every state for those three months
+
+![Image](averageprofittoaveragereturnrate.png)
+
+Above is the Avrgae profit to Average Return Rate for each State 
 
 
 
